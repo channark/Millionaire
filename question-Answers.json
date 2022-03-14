@@ -5,7 +5,7 @@
 			"PointToAddForcorrectAnswer": 10,
 			"NumQuestionsToAnswer": 4,
 			"questions": [{
-					"questionText": "القهقهة تكون عند ,,,",
+					"questionText": " :القهقهة تكون عند",
 					"blackList": false,
 					"answers": [{
 							"answerText": "الندم",
@@ -68,7 +68,7 @@
 					]
 				},
 				{
-					"questionText": "يقال : 'على قد حافك مد,,",
+					"questionText": "يقال : 'على قد حافك مد",
 					"blackList": false,
 					"answers": [{
 							"answerText": "زنديك",
@@ -194,7 +194,7 @@
 					]
 				},
 				{
-					"questionText": "ما اسم زوجة بيل كلينتون",
+					"questionText": "ما اسم زوجة بيل كلينتون؟",
 					"blackList": false,
 					"answers": [{
 							"answerText": "ماري",
@@ -302,19 +302,19 @@
 					"questionText": "كم صفرا للرقم مليون؟",
 					"blackList": false,
 					"answers": [{
-							"answerText": "5اصفار",
+							"answerText": "5 اصفار",
 							"isCorrect": false
 						},
 						{
-							"answerText": "8اصفار",
+							"answerText": "8 اصفار",
 							"isCorrect": false
 						},
 						{
-							"answerText": "7اصفار",
+							"answerText": "7 اصفار",
 							"isCorrect": false
 						},
 						{
-							"answerText": "6اصفار",
+							"answerText": "6 اصفار",
 							"isCorrect": true
 						}
 					]
@@ -365,25 +365,25 @@
 					"questionText": "كم بلغ عدد الخلفاء الراشدين؟",
 					"blackList": false,
 					"answers": [{
-							"answerText": "6خلفاء",
+							"answerText": "6 خلفاء",
 							"isCorrect": false
 						},
 						{
-							"answerText": " 4خلفاء",
+							"answerText": " 4 خلفاء",
 							"isCorrect": true
 						},
 						{
-							"answerText": "3خلفاء",
+							"answerText": "3 خلفاء",
 							"isCorrect": false
 						},
 						{
-							"answerText": "5خلفاء",
+							"answerText": "5 خلفاء",
 							"isCorrect": false
 						}
 					]
 				},
 				{
-					"questionText": "  قال المتنبي :انا الذي نظر الاعمى الى ادبي واسمعت كلماتي من به ,,,,؟",
+					"questionText": "  قال المتنبي :انا الذي نظر الاعمى الى ادبي واسمعت كلماتي من به ...؟",
 					"blackList": false,
 					"answers": [{
 							"answerText": "وشم",
@@ -425,7 +425,7 @@
 					]
 				},
 				{
-					"questionText": "اكمل القول:القرد في عين امه,,؟",
+					"questionText": "اكمل القول:القرد في عين امه...؟",
 					"blackList": false,
 					"answers": [{
 							"answerText": "غزال",
@@ -466,7 +466,7 @@
 					]
 				},
 				{
-					"questionText": "ما هي اكبر دولة عربية في عدد السكان؟",
+					"questionText": "ما هي اكبر دولة عربية من حيت عدد السكان؟",
 					"blackList": false,
 					"answers": [{
 							"answerText": "لبنان",
@@ -515,7 +515,7 @@
 							"isCorrect": true
 						},
 						{
-							"answerText": "امي",
+							"answerText": "اخي",
 							"isCorrect": false
 						},
 						{
@@ -539,11 +539,11 @@
 							"isCorrect": false
 						},
 						{
-							"answerText": "الكويت",
+							"answerText": "السودان",
 							"isCorrect": false
 						},
 						{
-							"answerText": "الكويت",
+							"answerText": "الجزائر",
 							"isCorrect": true
 						}
 					]
@@ -632,7 +632,7 @@
 					]
 				},
 				{
-					"questionText": "اكمل القول :غاب القط العب يا ,,,",
+					"questionText": "...اكمل القول :غاب القط العب يا",
 					"blackList": false,
 					"answers": [{
 							"answerText": "عصفور",
@@ -716,7 +716,7 @@
 					]
 				},
 				{
-					"questionText": "الغفوة ساعات الظهر هي,,,؟",
+					"questionText": "الغفوة ساعات الظهر هي...؟",
 					"blackList": false,
 					"answers": [{
 							"answerText": "ترويسة",
@@ -778,7 +778,7 @@
 						}
 					]
 				}, {
-					"questionText": "اكمل البيت التالي : عيرتني بالشيب وهو وقار/ليتها عيرت بما هو ,,,؟",
+					"questionText": "اكمل البيت التالي : عيرتني بالشيب وهو وقار/ليتها عيرت بما هو ...؟",
 					"blackList": false,
 					"answers": [{
 							"answerText": "كار",
@@ -2088,7 +2088,7 @@
 					]
 				},
 				{
-					"questionText": "انتشار مرض بين عدد كبير من الناس يكون,,,؟",
+					"questionText": "انتشار مرض بين عدد كبير من الناس يكون...؟",
 					"blackList": false,
 					"answers": [{
 							"answerText": "وباء",
@@ -2108,7 +2108,7 @@
 						}
 					]
 				}, {
-					"questionText": "الصوت المتواصل بوتيرة واحدة هو ,,,؟",
+					"questionText": "الصوت المتواصل بوتيرة واحدة هو ...؟",
 					"blackList": false,
 					"answers": [{
 							"answerText": "ربيب",
@@ -2129,7 +2129,7 @@
 					]
 				},
 				{
-					"questionText": "اليونانيون القدماء هم ,,,؟",
+					"questionText": "اليونانيون القدماء هم ...؟",
 					"blackList": false,
 					"answers": [{
 							"answerText": "البطريق ",
@@ -6222,8 +6222,113 @@
 						}
 					]
 				},
+				      {
+					"questionText": "كم مرة فاز منتخب الارجنتين بكأس العالم ؟",
+					"blackList": false,
+					"answers": [{
+							"answerText": "1 ",
+							"isCorrect": false
+						},
+						{
+							"answerText": "2",
+							"isCorrect": true
+						},
+						{
+							"answerText": "3",
+							"isCorrect": false
+						},
+						{
+							"answerText": "4",
+							"isCorrect": false
+						}
+					]
+				},
+				       {
+					"questionText": "ما هي الصلاة الوسطى ؟",
+					"blackList": false,
+					"answers": [{
+							"answerText": "الصبح ",
+							"isCorrect": false
+						},
+						{
+							"answerText": "الظهر",
+							"isCorrect": false
+						},
+						{
+							"answerText": "العصر",
+							"isCorrect": true
+						},
+						{
+							"answerText": "المغرب",
+							"isCorrect": false
+						}
+					]
+				},
+				       {
+					"questionText": "في أي شهر يحل عيد الفطر ؟",
+					"blackList": false,
+					"answers": [{
+							"answerText": "شوال ",
+							"isCorrect": true
+						},
+						{
+							"answerText": "رمضان",
+							"isCorrect": false
+						},
+						{
+							"answerText": "شعبتن",
+							"isCorrect": false
+						},
+						{
+							"answerText": "ذو الحجة",
+							"isCorrect": false
+						}
+					]
+				},
+				      {
+					"questionText": "أحدهم ليس نبيا ؟",
+					"blackList": false,
+					"answers": [{
+							"answerText": "شعيب ",
+							"isCorrect": false
+						},
+						{
+							"answerText": "عاد",
+							"isCorrect": true
+						},
+						{
+							"answerText": "لوط",
+							"isCorrect": false
+						},
+						{
+							"answerText": "يوسف",
+							"isCorrect": false
+						}
+					]
+				},
+				      {
+					"questionText": "كم عدد لاعبي فريق  الركبي المتواجد في الملعب ؟",
+					"blackList": false,
+					"answers": [{
+							"answerText": "19 ",
+							"isCorrect": false
+						},
+						{
+							"answerText": "17",
+							"isCorrect": false
+						},
+						{
+							"answerText": "15",
+							"isCorrect": true
+						},
+						{
+							"answerText": "13",
+							"isCorrect": false
+						}
+					]
+				},
 				{
-					"questionText": " كم عدد فريق لاعبي كرة السلة المتواجد في الملعب ",
+					"questionText": " كم عدد لاعبي فريق كرة السلة المتواجد في الملعب ",
 					"blackList": false,
 					"answers": [{
 							"answerText": "5",
