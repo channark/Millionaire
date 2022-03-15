@@ -6327,6 +6327,111 @@
 						}
 					]
 				},
+				       {
+					"questionText": "كم عدد أحرف اللغة العربية؟",
+					"blackList": false,
+					"answers": [{
+							"answerText": "26 ",
+							"isCorrect": false
+						},
+						{
+							"answerText": "27",
+							"isCorrect": false
+						},
+						{
+							"answerText": "28",
+							"isCorrect": true
+						},
+						{
+							"answerText": "29",
+							"isCorrect": false
+						}
+					]
+				},
+				       {
+					"questionText": "كم عدد أحرف اللغة الاجليزية؟",
+					"blackList": false,
+					"answers": [{
+							"answerText": "26 ",
+							"isCorrect": true
+						},
+						{
+							"answerText": "27",
+							"isCorrect": false
+						},
+						{
+							"answerText": "28",
+							"isCorrect": false
+						},
+						{
+							"answerText": "29",
+							"isCorrect": false
+						}
+					]
+				},
+				      {
+					"questionText": "كم عدد أحرف اللغة الفارسية",
+					"blackList": false,
+					"answers": [{
+							"answerText": "29 ",
+							"isCorrect": false
+						},
+						{
+							"answerText": "30",
+							"isCorrect": false
+						},
+						{
+							"answerText": "31",
+							"isCorrect": false
+						},
+						{
+							"answerText": "32",
+							"isCorrect": true
+						}
+					]
+				},
+				      {
+					"questionText": "من ألقاب اللغة العربية",
+					"blackList": false,
+					"answers": [{
+							"answerText": "لغة الضاض",
+							"isCorrect": true
+						},
+						{
+							"answerText": "لغة الصاد",
+							"isCorrect": false
+						},
+						{
+							"answerText": "لغة القاف",
+							"isCorrect": false
+						},
+						{
+							"answerText": "لغة الأبجدية",
+							"isCorrect": false
+						}
+					]
+				},
+				      {
+					"questionText": "من ألقاب اللغة الفرنسية",
+					"blackList": false,
+					"answers": [{
+							"answerText": "لغة روسو",
+							"isCorrect": false
+						},
+						{
+							"answerText": "لغة هيغو",
+							"isCorrect": false
+						},
+						{
+							"answerText": "لغة موليير",
+							"isCorrect": true
+						},
+						{
+							"answerText": "لغة دي غول",
+							"isCorrect": false
+						}
+					]
+				},
 				{
 					"questionText": " كم عدد لاعبي فريق كرة السلة المتواجد في الملعب ",
 					"blackList": false,
