@@ -6432,6 +6432,111 @@
 						}
 					]
 				},
+				       {
+					"questionText": "واحدة من هده البلدان ليست في افريقيا",
+					"blackList": false,
+					"answers": [{
+							"answerText": "مدغشقر",
+							"isCorrect": false
+						},
+						{
+							"answerText": "اسواتيني",
+							"isCorrect": false
+						},
+						{
+							"answerText": "سورينام",
+							"isCorrect": true
+						},
+						{
+							"answerText": "ليسوتو",
+							"isCorrect": false
+						}
+					]
+				},
+				       {
+					"questionText": "واحدة من هده البلدان ليست في اسيا",
+					"blackList": false,
+					"answers": [{
+							"answerText": "بوروندي",
+							"isCorrect": true
+						},
+						{
+							"answerText": "النيبال",
+							"isCorrect": false
+						},
+						{
+							"answerText": "لاوس",
+							"isCorrect": false
+						},
+						{
+							"answerText": "الهند",
+							"isCorrect": false
+						}
+					]
+				},
+				       {
+					"questionText": "الغة السمية للبرازيل",
+					"blackList": false,
+					"answers": [{
+							"answerText": "البرازيلية",
+							"isCorrect": false
+						},
+						{
+							"answerText": "الاسبانية",
+							"isCorrect": false
+						},
+						{
+							"answerText": "الهولندية",
+							"isCorrect": false
+						},
+						{
+							"answerText": "البرتغالية",
+							"isCorrect": true
+						}
+					]
+				},
+				       {
+					"questionText": "مدا تسمى لغة الفراعنة؟",
+					"blackList": false,
+					"answers": [{
+							"answerText": "الفرعونية",
+							"isCorrect": false
+						},
+						{
+							"answerText": "الهيروغريفية",
+							"isCorrect": true
+						},
+						{
+							"answerText": "الاغريقية",
+							"isCorrect": false
+						},
+						{
+							"answerText": "الارامية",
+							"isCorrect": false
+						}
+					]
+				},
+				       {
+					"questionText": "لغة المفوفين",
+					"blackList": false,
+					"answers": [{
+							"answerText": "الاشارات",
+							"isCorrect": false
+						},
+						{
+							"answerText": "لغة هيغو",
+							"isCorrect": false
+						},
+						{
+							"answerText": "لغة برايل",
+							"isCorrect": true
+						},
+						{
+							"answerText": "لغة النقوش",
+							"isCorrect": false
+						}
+					]
+				},
 				{
 					"questionText": " كم عدد لاعبي فريق كرة السلة المتواجد في الملعب ",
 					"blackList": false,
