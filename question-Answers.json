@@ -8,7 +8,6 @@
 					"questionText": " :القهقهة تكون عند",
 					"blackList": false,
 					"answers": [{
-							"answerText": "الندم",
 							"isCorrect": false
 						},
 						{
@@ -4186,7 +4185,7 @@
 					]
 				},
 				{
-					"questionText": "يقال عنه انه من الإشارة يفهم,فهل له؟",
+					"questionText": "يقال عنه انه من الإشارة يفهم. فهل هو؟",
 					"blackList": false,
 					"answers": [{
 							"answerText": "الطبيب",
