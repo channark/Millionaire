@@ -4995,7 +4995,7 @@
 					]
 				},
 				{
-					"questionText": "اكمل المثل : الصديق عند ,,,؟",
+					"questionText": "اكمل المثل : الصديق عند ...؟",
 					"blackList": false,
 					"answers": [{
 							"answerText": "الشدة",
@@ -5494,7 +5494,7 @@
 					]
 				},
 				{
-					"questionText": " يوضع في السوائل فيذوب وتبرد السوائل ,,,",
+					"questionText": " يوضع في السوائل فيذوب وتبرد السوائل ",
 					"blackList": false,
 					"answers": [{
 							"answerText": "بهارات",
@@ -5556,7 +5556,7 @@
 					]
 				},
 				{
-					"questionText": "عكس كلمة جميل ,,,",
+					"questionText": "عكس كلمة جميل ",
 					"blackList": false,
 					"answers": [{
 							"answerText": "فحيح",
@@ -5618,7 +5618,7 @@
 						}
 					]
 				}, {
-					"questionText": "من اخوات الفعل 'كان' ,,,",
+					"questionText": "من اخوات الفعل 'كان' ",
 					"blackList": false,
 					"answers": [{
 							"answerText": "الذي",
@@ -5681,7 +5681,7 @@
 					]
 				},
 				{
-					"questionText": "الشخص الذي لا يطيع والديه يسمى ,,,",
+					"questionText": "...الشخص الذي لا يطيع والديه يسمى ",
 					"blackList": false,
 					"answers": [{
 							"answerText": "الساق",
@@ -5702,7 +5702,7 @@
 					]
 				},
 				{
-					"questionText": "عادات وتقاليد وعلوم واداب تنتقل من جيل الى اخر ,,,",
+					"questionText": "عادات وتقاليد وعلوم واداب تنتقل من جيل الى اخر ",
 					"blackList": false,
 					"answers": [{
 							"answerText": "التراث",
@@ -5722,7 +5722,7 @@
 						}
 					]
 				}, {
-					"questionText": "السينما هي,,,",
+					"questionText": "السينما هي",
 					"blackList": false,
 					"answers": [{
 							"answerText": "الشاشة البيضاء",
@@ -7355,11 +7355,11 @@
 					]
 				},
 				{
-					"questionText": " جدار تم استخدامه لإحدى المدن بعد الحرب العالمية الثانية وانهار عام 1989؟",
+					"questionText": " جدار تم استخدامه لإحدى المدن بعد الحرب العالمية الثانية وانهار عام 89؟",
 					"blackList": false,
 					"answers": [{
 							"answerText": "جدار ميونخ",
-							"isCorrect": true
+							"isCorrect": false
 						},
 						{
 							"answerText": "جدار المانيا",
@@ -7371,7 +7371,7 @@
 						},
 						{
 							"answerText": "جدار برلين",
-							"isCorrect": false
+							"isCorrect": true
 						}
 					]
 				}, {
