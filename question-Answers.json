@@ -6536,6 +6536,111 @@
 						}
 					]
 				},
+				      {
+					"questionText": "أي هذه الكواكب الأكبر حجماً؟",
+					"blackList": false,
+					"answers": [{
+							"answerText": "عطارد",
+							"isCorrect": false
+						},
+						{
+							"answerText": "الأرض",
+							"isCorrect": false
+						},
+						{
+							"answerText": "المشتري",
+							"isCorrect": true
+						},
+						{
+							"answerText": "زحل",
+							"isCorrect": false
+						}
+					]
+				},
+				      {
+					"questionText": "كم عدد كواكب النظام الشمسي ؟",
+					"blackList": false,
+					"answers": [{
+							"answerText": "8",
+							"isCorrect": true
+						},
+						{
+							"answerText": "9",
+							"isCorrect": false
+						},
+						{
+							"answerText": "10",
+							"isCorrect": false
+						},
+						{
+							"answerText": "11",
+							"isCorrect": false
+						}
+					]
+				},
+				      {
+					"questionText": "ماهو أبعد كوكب عن الشمس؟",
+					"blackList": false,
+					"answers": [{
+							"answerText": "عطارد",
+							"isCorrect": false
+						},
+						{
+							"answerText": "الأرض",
+							"isCorrect": false
+						},
+						{
+							"answerText": "أورانوس",
+							"isCorrect": false
+						},
+						{
+							"answerText": "نبتون",
+							"isCorrect": true
+						}
+					]
+				},
+				      {
+					"questionText": "ما إسم المجرة التي نتواجد فيها؟",
+					"blackList": false,
+					"answers": [{
+							"answerText": "درب التبانة",
+							"isCorrect": true
+						},
+						{
+							"answerText": "درب الشمس",
+							"isCorrect": false
+						},
+						{
+							"answerText": "درب الضوء",
+							"isCorrect": true
+						},
+						{
+							"answerText": "دروب ريمي",
+							"isCorrect": false
+						}
+					]
+				},
+				      {
+					"questionText": "ما هي وحدة قياس السافة بين الكواكب و النجوم؟",
+					"blackList": false,
+					"answers": [{
+							"answerText": "الكيلومتر",
+							"isCorrect": false
+						},
+						{
+							"answerText": "التيرامتر",
+							"isCorrect": false
+						},
+						{
+							"answerText": " السنة الضوئية",
+							"isCorrect": true
+						},
+						{
+							"answerText": "المتر الفضائي",
+							"isCorrect": false
+						}
+					]
+				},
 				{
 					"questionText": " كم عدد لاعبي فريق كرة السلة المتواجد في الملعب ",
 					"blackList": false,
