@@ -6641,6 +6641,111 @@
 						}
 					]
 				},
+				      {
+					"questionText": "أحد هؤلاء فيلسوف",
+					"blackList": false,
+					"answers": [{
+							"answerText": "فيثاغورس",
+							"isCorrect": true
+						},
+						{
+							"answerText": "كريستيانو رونالدو",
+							"isCorrect": false
+						},
+						{
+							"answerText": "فيكتور هوجو",
+							"isCorrect": false
+						},
+						{
+							"answerText": "إيدي ريدماين",
+							"isCorrect": false
+						}
+					]
+				},
+				      {
+					"questionText": "من هم مؤسسوا الفلسفة؟",
+					"blackList": false,
+					"answers": [{
+							"answerText": "الرومان",
+							"isCorrect": false
+						},
+						{
+							"answerText": "الفينيقيون",
+							"isCorrect": false
+						},
+						{
+							"answerText": "المسلمون",
+							"isCorrect": false
+						},
+						{
+							"answerText": "الاغريق",
+							"isCorrect": true
+						}
+					]
+				},
+				      {
+					"questionText": "من مواضيع الفلسفة",
+					"blackList": false,
+					"answers": [{
+							"answerText": "الميتافيزيقيا",
+							"isCorrect": false
+						},
+						{
+							"answerText": "الهروغرفية",
+							"isCorrect": false
+						},
+						{
+							"answerText": "التقب الأسود",
+							"isCorrect": true
+						},
+						{
+							"answerText": "التاريخ",
+							"isCorrect": false
+						}
+					]
+				},
+				      {
+					"questionText": "من صاحب مقولة أنا أفكر إذن أنا موجود؟",
+					"blackList": false,
+					"answers": [{
+							"answerText": "ابن سينا",
+							"isCorrect": false
+						},
+						{
+							"answerText": "ديكارت",
+							"isCorrect": true
+						},
+						{
+							"answerText": "أرسطو",
+							"isCorrect": false
+						},
+						{
+							"answerText": "جان جاك روسو",
+							"isCorrect": false
+						}
+					]
+				},
+				      {
+					"questionText": "الفلسفة هي في الأصل كلمة",
+					"blackList": false,
+					"answers": [{
+							"answerText": "عربية",
+							"isCorrect": false
+						},
+						{
+							"answerText": "فارسية",
+							"isCorrect": false
+						},
+						{
+							"answerText": "فرنسية",
+							"isCorrect": false
+						},
+						{
+							"answerText": "يونانية",
+							"isCorrect": true
+						}
+					]
+				},
 				{
 					"questionText": " كم عدد لاعبي فريق كرة السلة المتواجد في الملعب ",
 					"blackList": false,
