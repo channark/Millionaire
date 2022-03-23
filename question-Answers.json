@@ -6746,6 +6746,111 @@
 						}
 					]
 				},
+				      {
+					"questionText": "نظام اتصالات عالمي",
+					"blackList": false,
+					"answers": [{
+							"answerText": "الإنترانت",
+							"isCorrect": false
+						},
+						{
+							"answerText": "الإنترنت",
+							"isCorrect": true
+						},
+						{
+							"answerText": "التلفاز",
+							"isCorrect": false
+						},
+						{
+							"answerText": "الجرائد",
+							"isCorrect": false
+						}
+					]
+				},
+				      {
+					"questionText": "غوغل هو",
+					"blackList": false,
+					"answers": [{
+							"answerText": "محرك بحت",
+							"isCorrect": false
+						},
+						{
+							"answerText": "جهاز الاكتروني",
+							"isCorrect": false
+						},
+						{
+							"answerText": "فريق كرة قدم",
+							"isCorrect": false
+						},
+						{
+							"answerText": "مغني راب",
+							"isCorrect": true
+						}
+					]
+				},
+				      {
+					"questionText": "كم عمر الاسلام",
+					"blackList": false,
+					"answers": [{
+							"answerText": "1400 سنة",
+							"isCorrect": true
+						},
+						{
+							"answerText": "1500 سنة",
+							"isCorrect": false
+						},
+						{
+							"answerText": "1600 سنة",
+							"isCorrect": false
+						},
+						{
+							"answerText": "1700 سنة",
+							"isCorrect": false
+						}
+					]
+				},
+				      {
+					"questionText": "سلسلة رسوم متحركة متعلقة بكرة القدم",
+					"blackList": false,
+					"answers": [{
+							"answerText": "أجنحة الكندام",
+							"isCorrect": false
+						},
+						{
+							"answerText": "كابتن أمريكا",
+							"isCorrect": false
+						},
+						{
+							"answerText": "شوت",
+							"isCorrect": true
+						},
+						{
+							"answerText": "سلام دنك",
+							"isCorrect": false
+						}
+					]
+				},
+				      {
+					"questionText": "في أي جزء من الجسم توجد الشبكية",
+					"blackList": false,
+					"answers": [{
+							"answerText": "الادن",
+							"isCorrect": false
+						},
+						{
+							"answerText": "العين",
+							"isCorrect": true
+						},
+						{
+							"answerText": "الأنف",
+							"isCorrect": false
+						},
+						{
+							"answerText": "الدماغ",
+							"isCorrect": false
+						}
+					]
+				},
 				{
 					"questionText": " كم عدد لاعبي فريق كرة السلة المتواجد في الملعب ",
 					"blackList": false,
