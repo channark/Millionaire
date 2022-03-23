@@ -15592,10 +15592,10 @@
 					]
 				},
 				{
-					"questionText": " ماهو العلم الذي يبحث جسم الانسان",
+					"questionText": " ماهو العلم الذي يبحث الانسان",
 					"blackList": false,
 					"answers": [{
-							"answerText": "علم الجبر",
+							"answerText": "أركيولوجيا",
 							"isCorrect": false
 						},
 						{
