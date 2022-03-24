@@ -6851,6 +6851,111 @@
 						}
 					]
 				},
+				       {
+					"questionText": "من هو النبي الذي بنى سفينة؟",
+					"blackList": false,
+					"answers": [{
+							"answerText": "عيسى",
+							"isCorrect": false
+						},
+						{
+							"answerText": "لوط",
+							"isCorrect": false
+						},
+						{
+							"answerText": "نوح",
+							"isCorrect": true
+						},
+						{
+							"answerText": "سليمان",
+							"isCorrect": false
+						}
+					]
+				},
+				       {
+					"questionText": "كم عدد احزاب القرأن ؟",
+					"blackList": false,
+					"answers": [{
+							"answerText": "60",
+							"isCorrect": true
+						},
+						{
+							"answerText": "70",
+							"isCorrect": false
+						},
+						{
+							"answerText": "80",
+							"isCorrect": false
+						},
+						{
+							"answerText": "90",
+							"isCorrect": false
+						}
+					]
+				},
+				       {
+					"questionText": "أداة لقياس الحرارة",
+					"blackList": false,
+					"answers": [{
+							"answerText": "ألة الحرارة",
+							"isCorrect": false
+						},
+						{
+							"answerText": "معبار",
+							"isCorrect": false
+						},
+						{
+							"answerText": "الزئبق",
+							"isCorrect": false
+						},
+						{
+							"answerText": "محرار",
+							"isCorrect": true
+						}
+					]
+				},
+				       {
+					"questionText": " ما هي عاصمة موريتانيا؟",
+					"blackList": false,
+					"answers": [{
+							"answerText": "نواديبو",
+							"isCorrect": false
+						},
+						{
+							"answerText": "نواكشوط",
+							"isCorrect": true
+						},
+						{
+							"answerText": "العيون",
+							"isCorrect": false
+						},
+						{
+							"answerText": "موريتانيا العاصمة",
+							"isCorrect": false
+						}
+					]
+				},
+				       {
+					"questionText": "كتاب غينس هو كتاب تسجل فيه",
+					"blackList": false,
+					"answers": [{
+							"answerText": "الأرقام السليبة",
+							"isCorrect": false
+						},
+						{
+							"answerText": "الأرقام الأولمبية",
+							"isCorrect": false
+						},
+						{
+							"answerText": "الأرقام الفضائية",
+							"isCorrect": false
+						},
+						{
+							"answerText": "الأرقام القياسية",
+							"isCorrect": true
+						}
+					]
+				},
 				{
 					"questionText": " كم عدد لاعبي فريق كرة السلة المتواجد في الملعب ",
 					"blackList": false,
