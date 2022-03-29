@@ -6956,6 +6956,111 @@
 						}
 					]
 				},
+				      {
+					"questionText": "من هو مؤسس الدولة العثمانية؟",
+					"blackList": false,
+					"answers": [{
+							"answerText": "اردوغان",
+							"isCorrect": false
+						},
+						{
+							"answerText": "أرطغرل",
+							"isCorrect": false
+						},
+						{
+							"answerText": "أتاتورك",
+							"isCorrect": false
+						},
+						{
+							"answerText": "عثمان بن أرطغرل ",
+							"isCorrect": true
+						}
+					]
+				},
+				      {
+					"questionText": "حيوان خرافي صيني",
+					"blackList": false,
+					"answers": [{
+							"answerText": "التنين",
+							"isCorrect": true
+						},
+						{
+							"answerText": "الباندا",
+							"isCorrect": false
+						},
+						{
+							"answerText": "قرد الكونغفو",
+							"isCorrect": false
+						},
+						{
+							"answerText": "الحوت الأزرق",
+							"isCorrect": false
+						}
+					]
+				},
+				      {
+					"questionText": "بوليوود هي عاصمة السينما",
+					"blackList": false,
+					"answers": [{
+							"answerText": "اليابانية",
+							"isCorrect": false
+						},
+						{
+							"answerText": "الهندية",
+							"isCorrect": true
+						},
+						{
+							"answerText": "الأمريكية",
+							"isCorrect": false
+						},
+						{
+							"answerText": "البريطانية",
+							"isCorrect": false
+						}
+					]
+				},
+				      {
+					"questionText": "جاسوس سلسلة أفلام المهمة المستحيلة mission impossible",
+					"blackList": false,
+					"answers": [{
+							"answerText": "جيمس بوند",
+							"isCorrect": false
+						},
+						{
+							"answerText": "جايسون بورن",
+							"isCorrect": false
+						},
+						{
+							"answerText": "اتن هنت",
+							"isCorrect": true
+						},
+						{
+							"answerText": "جاك ريان",
+							"isCorrect": false
+						}
+					]
+				},
+				      {
+					"questionText": "عالم مسلم متخصص في الروبوت والميكانيك",
+					"blackList": false,
+					"answers": [{
+							"answerText": "الجزري",
+							"isCorrect": true
+						},
+						{
+							"answerText": "محمد الادريسي",
+							"isCorrect": false
+						},
+						{
+							"answerText": "محمد بن موسى الخوارزمي",
+							"isCorrect": false
+						},
+						{
+							"answerText": "أحمد زويل",
+							"isCorrect": false
+						}
+					]
+				},
 				{
 					"questionText": " كم عدد لاعبي فريق كرة السلة المتواجد في الملعب ",
 					"blackList": false,
