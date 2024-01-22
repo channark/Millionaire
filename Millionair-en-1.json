@@ -903,27 +903,6 @@
 					]
 				},
 				{
-					"questionText": "حجرة النوم في البيت هي ,,,؟",
-					"blackList": false,
-					"answers": [{
-							"answerText": "الورشة",
-							"isCorrect": false
-						},
-						{
-							"answerText": "الورطة",
-							"isCorrect": false
-						},
-						{
-							"answerText": "المازق",
-							"isCorrect": false
-						},
-						{
-							"answerText": "المخدع",
-							"isCorrect": true
-						}
-					]
-				},
-				{
 					"questionText": "What is the primary gas that humans breathe out?",
 					"blackList": false,
 					"answers": [{
@@ -941,27 +920,6 @@
 						{
 							"answerText": "Hydrogen",
 							"isCorrect": false
-						}
-					]
-				},
-				{
-					"questionText": "من شعراء الجاهلية 'زهير بن ابي ,,,'؟",
-					"blackList": false,
-					"answers": [{
-							"answerText": "غيدا",
-							"isCorrect": false
-						},
-						{
-							"answerText": "سلوى",
-							"isCorrect": false
-						},
-						{
-							"answerText": "رغدة",
-							"isCorrect": false
-						},
-						{
-							"answerText": "سلمى",
-							"isCorrect": true
 						}
 					]
 				},
@@ -1092,26 +1050,6 @@
 					]
 				},
 				{
-					"questionText": "اكمل المقولة :انصر اخاك ظالما او,,؟",
-					"blackList": false,
-					"answers": [{
-							"answerText": "مظلوما",
-							"isCorrect": true
-						},
-						{
-							"answerText": "منصورا",
-							"isCorrect": false
-						},
-						{
-							"answerText": "مقهورا",
-							"isCorrect": false
-						},
-						{
-							"answerText": "مهزوما",
-							"isCorrect": false
-						}
-					]
-				}, {
 					"questionText": "Which direction does the sun rise in?",
 					"blackList": false,
 					"answers": [{
@@ -1648,27 +1586,6 @@
 						{
 							"answerText": "Gymnastics",
 							"isCorrect": false
-						}
-					]
-				},
-				{
-					"questionText": "أي من هذه المدن غير موجودة في الأردن ؟",
-					"blackList": false,
-					"answers": [{
-							"answerText": "جرش",
-							"isCorrect": false
-						},
-						{
-							"answerText": "عمان",
-							"isCorrect": false
-						},
-						{
-							"answerText": "البتراء",
-							"isCorrect": false
-						},
-						{
-							"answerText": "صيدا",
-							"isCorrect": true
 						}
 					]
 				},
@@ -2586,27 +2503,6 @@
 					]
 				},
 				{
-					"questionText": "اين يوجد الشراع ",
-					"blackList": false,
-					"answers": [{
-							"answerText": "الغواصة",
-							"isCorrect": false
-						},
-						{
-							"answerText": "السفينة",
-							"isCorrect": true
-						},
-						{
-							"answerText": "بيت الشعر",
-							"isCorrect": false
-						},
-						{
-							"answerText": "العرائش",
-							"isCorrect": false
-						}
-					]
-				},
-				{
 					"questionText": "In the movie 'Frozen,' what is Elsa's magical power?",
 					"blackList": false,
 					"answers": [{
@@ -2773,27 +2669,6 @@
 					]
 				},
 				{
-					"questionText": "من اقترض مالا فهو ؟ ",
-					"blackList": false,
-					"answers": [{
-							"answerText": "مافون",
-							"isCorrect": false
-						},
-						{
-							"answerText": "مديون",
-							"isCorrect": true
-						},
-						{
-							"answerText": "مامون",
-							"isCorrect": false
-						},
-						{
-							"answerText": "مجنون",
-							"isCorrect": false
-						}
-					]
-				},
-				{
 					"questionText": "What is the opposite of 'happy'?",
 					"blackList": false,
 					"answers": [{
@@ -2832,26 +2707,6 @@
 						{
 							"answerText": "They",
 							"isCorrect": false
-						}
-					]
-				}, {
-					"questionText": "كلمة السمر تعني : ",
-					"blackList": false,
-					"answers": [{
-							"answerText": "الفاكهة",
-							"isCorrect": false
-						},
-						{
-							"answerText": "صهوة الخيل",
-							"isCorrect": false
-						},
-						{
-							"answerText": "الواجهة",
-							"isCorrect": false
-						},
-						{
-							"answerText": "حديث الليل",
-							"isCorrect": true
 						}
 					]
 				},
@@ -3459,7 +3314,7 @@
 					]
 				},
 				{
-					"questionText": "Take my car you means?",
+					"questionText": "The expression 'Take my car' means :?",
 					"blackList": false,
 					"answers": [{
 							"answerText": "Buy it",
@@ -5793,27 +5648,6 @@
 					]
 				},
 				{
-					"questionText": " النادي العاراقي الذي سيطر في الثمانيات علي مسابقات الأندية هو",
-					"blackList": false,
-					"answers": [{
-							"answerText": "Edward VI",
-							"isCorrect": false
-						},
-						{
-							"answerText": "Henry VIII ",
-							"isCorrect": true
-						},
-						{
-							"answerText": "Mary I",
-							"isCorrect": false
-						},
-						{
-							"answerText": "Elizabeth I",
-							"isCorrect": false
-						}
-					]
-				},
-				{
 					"questionText": "From which country does basketball player Kareem Abdul-Jabbar come from?",
 					"blackList": false,
 					"answers": [{
@@ -6163,27 +5997,6 @@
 						{
 							"answerText": "Lawyer",
 							"isCorrect": false
-						}
-					]
-				},
-				{
-					"questionText": "ماأسم المضيق الذي يربط البحر الاسود ببحر مرمره ؟",
-					"blackList": false,
-					"answers": [{
-							"answerText": "Strait of Gibraltar",
-							"isCorrect": false
-						},
-						{
-							"answerText": "Bab al-Mandab Strait",
-							"isCorrect": false
-						},
-						{
-							"answerText": "Strait of Atrant",
-							"isCorrect": false
-						},
-						{
-							"answerText": "Bosphorus Strait",
-							"isCorrect": true
 						}
 					]
 				},
@@ -7081,27 +6894,7 @@
 						}
 					]
 				},
-				{
-					"questionText": "من هي أكبر مدينة أفريقية؟",
-					"blackList": false,
-					"answers": [{
-							"answerText": "Cairo",
-							"isCorrect": true
-						},
-						{
-							"answerText": "Lagos",
-							"isCorrect": false
-						},
-						{
-							"answerText": "Dubai",
-							"isCorrect": false
-						},
-						{
-							"answerText": "Casa Blanca",
-							"isCorrect": false
-						}
-					]
-				}, {
+				 {
 					"questionText": "How much does the Earth's surface?",
 					"blackList": false,
 					"answers": [{
@@ -8322,7 +8115,7 @@
 							"isCorrect": false
 						},
 						{
-							"answerText": "اCasino",
+							"answerText": "Casino",
 							"isCorrect": false
 						}
 					]
@@ -10854,7 +10647,7 @@
 							"isCorrect": true
 						},
 						{
-							"answerText": "Injection Moldingي",
+							"answerText": "Injection Molding",
 							"isCorrect": false
 						},
 						{
@@ -11719,7 +11512,7 @@
 					"questionText": "The people in the world who are least affected by baldness are?",
 					"blackList": false,
 					"answers": [{
-							"answerText": "الفرس",
+							"answerText": "Iranian",
 							"isCorrect": false
 						},
 						{
@@ -12811,7 +12604,7 @@
 							"isCorrect": false
 						},
 						{
-							"answerText": "كاسيوس مارسيلوس كلاي",
+							"answerText": "Cassius Marcellus Clay",
 							"isCorrect": true
 						},
 						{
@@ -14068,7 +13861,7 @@
 							"isCorrect": true
 						},
 						{
-							"answerText": "100 الف كيلومتر",
+							"answerText": "100 km",
 							"isCorrect": false
 						}
 					]
@@ -14742,7 +14535,7 @@
 					]
 				},
 				{
-					"questionText": "فى سباق السيارات إذا رفعت الراية الزرقاء يعني",
+					"questionText": "In car racing, if the blue flag is raised, that means:",
 					"blackList": false,
 					"answers": [{
 							"answerText": "Reduce speed",
