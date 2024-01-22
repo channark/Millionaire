@@ -841,7 +841,7 @@
 					]
 				},
 				{
-					"questionText": "Which planet is known as the "Blue Planet"?",
+					"questionText": "Which planet is known as the 'Blue Planet'?",
 					"blackList": false,
 					"answers": [{
 							"answerText": "Earth",
@@ -4288,7 +4288,9 @@
 							"isCorrect": false
 						}
 					]
-				},
+				}
+			]
+		},
 		{
 			"name": "Round B",
 			"TimeLimitInsec": 20,
@@ -8379,7 +8381,7 @@
 							"isCorrect": false
 						},
 						{
-							"answerText": "Freezing"                                                      ",
+							"answerText": "Freezing",
 							"isCorrect": false
 						},
 						{
@@ -13926,7 +13928,7 @@
 					]
 				},
 				{
-					"questionText": "What is the unit of measurement for computer speed?"
+					"questionText": "What is the unit of measurement for computer speed?",
 					"blackList": false,
 					"answers": [{
 							"answerText": "Megapixel",
@@ -16144,7 +16146,7 @@
 						}
 					]
 				}, {
-					"questionText": "Which German philosopher developed the philosophical concept of the 'Übermensch' or 'Overman' in his work "Thus Spoke Zarathustra"?",
+					"questionText": "Which German philosopher developed the philosophical concept of the 'Übermensch' or 'Overman' in his work 'Thus Spoke Zarathustra'?",
 					"blackList": false,
 					"answers": [{
 							"answerText": "Karl Marx",
@@ -16577,7 +16579,7 @@
 							"isCorrect": true
 						},
 						{
-							"answerText": "171974
+							"answerText": "171974",
 							"isCorrect": false
 						}
 					]
